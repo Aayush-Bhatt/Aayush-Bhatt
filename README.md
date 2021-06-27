@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [blogexpress.online](https://blogexpress.online)
 
-- 📫 How to reach me **aayushbhatt20@gmail.com**
+- 📫 Reach me at **aayushbhatt20@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/aayushbhattresume](https://tinyurl.com/aayushbhattresume)
 
