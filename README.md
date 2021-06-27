@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **about the various Computer networking technologies such as routing, switching etc.**
 
-- 📝 I regularly write articles on [blogexpress.online](blogexpress.online)
+- 📝 I regularly write articles on [blogexpress.online](https://blogexpress.online)
 
 - 📫 How to reach me **aayushbhatt20@gmail.com**
 
