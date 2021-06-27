@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **about the various Computer networking technologies such as routing, switching etc.**
 
-- 👯 I’m looking to collaborate on [one of my blogging website](blogexpress.online)
-
 - 📝 I regularly write articles on [blogexpress.online](blogexpress.online)
 
 - 📫 How to reach me **aayushbhatt20@gmail.com**
