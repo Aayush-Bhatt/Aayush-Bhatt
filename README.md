@@ -37,7 +37,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-bhatt&show_icons=true&locale=en" alt="aayush-bhatt" /></p>
-/></p>
+</p>
 
 
 <br>
