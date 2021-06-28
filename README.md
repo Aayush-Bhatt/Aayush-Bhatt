@@ -37,8 +37,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-bhatt&show_icons=true&locale=en" alt="aayush-bhatt" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-bhatt&" alt="aayush-bhatt" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-bhatt&show_icons=true&locale=en&layout=compact" alt="aayush-bhatt" /></p>
+/></p>
 
 
 <br>
