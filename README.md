@@ -11,7 +11,7 @@
 
 - 📝 I regularly write blogs on [blogexpress.space](https://blogexpress.space)
 
-- 📫 Reach me at **aayushbhatt20@gmail.com**
+- 📫 Reach me at **aayushbhatt20@gmail.com or aayush.bhatt@btech.christuniversity.in**
 
 - 📄 Know about my experiences [https://tinyurl.com/aayushbhattresume](https://tinyurl.com/aayushbhattresume)
 
