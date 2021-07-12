@@ -5,7 +5,7 @@
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 <p align="left"> <a href="https://twitter.com/aa_yush20" target="blank"><img src="https://img.shields.io/twitter/follow/aa_yush20?logo=twitter&style=for-the-badge" alt="aa_yush20" /></a> </p>
 
-- 🔭 I’m currently working on **LG India Hackathon project.**
+- 🔭 I’m currently working on **LG India Hackathon project for building a raspberry pi based project.**
 
 - 🌱 I’m currently learning **about the various Computer networking technologies such as routing, switching etc.**
 
