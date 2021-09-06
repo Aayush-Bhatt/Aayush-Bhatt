@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Aayush Bhatt</h1>
-<h3 align="center">A passionate web developer and Computer Networking enthusiast from India.</h3>
+<h3 align="center">A passionate Full Stack developer and Computer Networking enthusiast from India.</h3>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 <p align="left"> <a href="https://twitter.com/aa_yush20" target="blank"><img src="https://img.shields.io/twitter/follow/aa_yush20?logo=twitter&style=for-the-badge" alt="aa_yush20" /></a> </p>
