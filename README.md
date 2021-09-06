@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I am Aayush Bhatt</h1>
 <h3 align="center">A passionate web developer and Computer Networking enthusiast from India.</h3>
 
-<!-- <img src="/banner.png" alt="Banner" width="800" height="300" align="center" /> -->
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 <p align="left"> <a href="https://twitter.com/aa_yush20" target="blank"><img src="https://img.shields.io/twitter/follow/aa_yush20?logo=twitter&style=for-the-badge" alt="aa_yush20" /></a> </p>
 
 - 🔭 I’m currently working on **LG India Hackathon for building a Logistics Tracking system.**
